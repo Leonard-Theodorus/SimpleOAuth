@@ -1,0 +1,8 @@
+Rename .envexample to .env, and do this following changes:
+1. change DB_DATABASE to simpleauth
+2. Add these fields and fill it with your own google and github credentials:
+GITHUB_CLIENT_ID =
+GITHUB_CLIENT_SECRET =
+
+GOOGLE_CLIENT_ID =
+GOOGLE_CLIENT_SECRET =
